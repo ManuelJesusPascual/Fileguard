@@ -8,6 +8,8 @@ The API is deployed and ready to use:
 
 Base URL: https://fileguard-production.up.railway.app
 
+Swagger URL: https://fileguard-production.up.railway.app/swagger-ui/index.html
+
 Validation Endpoint: https://fileguard-production.up.railway.app/api/validate
 
 You can test the live API using curl, Postman, or any HTTP client.
